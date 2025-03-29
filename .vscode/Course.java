@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 /**
  * Represents a generic university course with exams, weights, and grading functionality.
+ * 
+ * @author Elif Bozkurt
  */
 public class Course {
     public String[] letterGrades = {"A ", "A-", "B+", "B ", "C+", "C ", "C-", "D+", "D ", "F "};

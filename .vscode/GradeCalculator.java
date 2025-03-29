@@ -12,6 +12,8 @@ import javax.swing.*;
 /**
  * GradeCalculator is a GUI-based Java application for managing and calculating grades for various university courses.
  * It allows students to enter, save, and edit grades; calculate averages; and view required final grades.
+ * 
+ * @author Elif Bozkurt
  */
 public class GradeCalculator extends JFrame {
     private ArrayList<Course> courses;
